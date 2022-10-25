@@ -1,7 +1,3 @@
-
-
-
-
 from random import randint
  
 
@@ -28,7 +24,3 @@ if low > high:
     print("No value")
 else:
     print("ID =", mid)
-
-
-
-
