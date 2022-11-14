@@ -1,4 +1,5 @@
 
+from bs4 import BeautifulSoup
 import requests
 import time
 from threading import Thread
